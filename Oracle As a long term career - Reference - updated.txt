@@ -1,0 +1,179 @@
+Session 01
+==========
+
+Long Term Career Partner
+------------------------
+	- What is it ?
+        - Technology partner
+           Ex
+             Phython - https://www.python.org/psf/
+             Harshicorp - https://www.hashicorp.com/
+             scala - https://www.scala-lang.org/
+             Azure Custom Vision - https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/
+             Tensorflow - https://www.tensorflow.org/federated
+
+
+==========
+Session 02
+==========
+	- As the career grows 
+	 
+            + Cross-skilling - T Shape
+
+         Train and onboard employees in multiple job functions and skill sets. 
+         Cross-training is providing training to help a person take on additional work related to their current role
+          
+            Ex - Currently you are maanging on premise Databases but gradually you get cross-skilled to manage cloud databases
+        
+            + Upskilling
+
+        Is the process of learning new skills or of teaching workers new skills.
+	Upskilling is about sharpening skills for an existing role
+
+           Ex - Currently you know to manage a Standalone Database but you start to learn how to manage a clustered Database
+
+            + Reskilling 
+
+         Is the process of learning new skills so you can do a different job, or of training people to do a different job.
+         Different Technology Enablement
+	 Reskilling is about imparting additional skills for a new or expanded role.
+
+         Ex - Currently you are DBA but you are reskilling on kubernetes for container orchestration.
+
+
+        Addressing the skills gap with career pathing
+
+         Career pathing is the process used by an employee to chart a course for their personal career development it will 
+         creates internal movement both laterally and vertically and will create visibility.
+         be a part of  culture of talent mobility
+	
+	Ref :
+        https://www.talentguard.com/blog/reskilling-upskilling-strategic-response-changing-skill-demands
+
+            Corrent primary skill - Database
+            Start building a Secondary skill - Cloud
+            and third - Devops	   
+
+       - As the career further grows look at domain expertise
+       - Also Role play
+
+    Can one Vendor support all of above ?
+       - depends on geo presence and the global foot print also the product range
+
+==========
+Session 03
+==========
+
+Oracle Organization
+-------------------
+
+   Just google for Oracle 
+
+Total Solution provider
+  - Think about automating an Information System
+     + H/W
+     + OS
+     + DB / MW / FE / 
+	
+
+Oracle Product Line  A --> Z
+------------------- ---------
+https://www.oracle.com/products/oracle-a-z.html
+
+https://www.oracle.com/products/software.html
+
+Discover the benefits of a converged database - Video
+
+==========
+Session 04
+==========
+
+
+https://docs.oracle.com/en/database/oracle/oracle-database/21/dblic/Licensing-Information.html#GUID-B6113390-9586-46D7-9008-DCC9EDA45AB4
+
+https://www.netsuite.com/portal/home.shtml
+
+ Video - netsuite
+
+Oracle Account / Cloud account
+------------------------------
+
+https://www.oracle.com/index.html --> View Accounts
+https://www.oracle.com/cloud/
+
+Oracle Products Downloads
+-------------------------
+	- https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#19c
+
+	- Oracle Software Dilivery Cloud
+
+https://edelivery.oracle.com/osdc/faces/Home.jspx
+
+        - Oracle Free and Total free products
+
+         XE - Total Free - 
+         EE - Free - testing /free
+      Bugs - fixed this - Patches - Mysupport login - License 
+
+==========
+Session 05
+==========
+
+Oracle Cloud - Cloud wars
+-------------------------
+
+https://cloudwars.co/
+https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb
+https://www.canalys.com/newsroom/global-cloud-services-q3-2021
+https://www.oracle.com/news/announcement/2021-gartner-cloud-database-management-systems-2021-12-20/
+
+
+Oracle for Education
+--------------------
+
+  - Documentation
+https://docs.oracle.com/en/
+
+  - Oracle Interactive Architecture Reference
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/12c/r1/poster/OUTPUT_poster/poster.html#
+https://www.oracle.com/webfolder/technetwork/tutorials/architecture-diagrams/19/database-technical-architecture.html
+https://www.oracle.com/webfolder/technetwork/tutorials/architecture-diagrams/21/database-technical-architecture.html
+
+  - OBE
+https://apexapps.oracle.com/pls/apex/f?p=44785:OLL_HOME:6998948481478:::::
+
+==========
+Session 06
+==========
+
+  - Certification 
+https://education.oracle.com/certification
+
+  - Oracle University 
+
+https://education.oracle.com/
+https://education.oracle.com/oracle-cloud-guided-learning
+
+ 
+==========
+Session 07
+==========
+
+Roles in the Industry
+  
+
+ Oracle Offcial Support
+ ----------------------
+
+https://support.oracle.com/portal/
+
+
+Oracle Annual Conference
+------------------------
+https://www.oracle.com/openworld/
+
+
+
+
+
+
